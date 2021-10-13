@@ -1,0 +1,7 @@
+//a simple program testing the function call and param passing logic for hyd.
+
+fun sayHi(first, last) {
+  print "Hi, " + first + " " + last + "!";
+}
+
+sayHi("Dear", "Reader");
